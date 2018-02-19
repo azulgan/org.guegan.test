@@ -2,7 +2,7 @@
 
 ## First test: String vs StringBuffer vs StringBuilder
 
-Source: See org.guegan.test.strings.StringBufferAutoTest
+Source: See [org.guegan.test.strings.StringTest](../java/org/guegan/test/strings/StringTest.java)
 
 Results :
 
@@ -33,6 +33,8 @@ note that every test benefits obviously by some jvm9 optimization
 ## Second test: jdk compiler would improve your code behind the scene
 
 Source: see org.guegan.test.strings.StringBufferAutoTest
+Source: See [org.guegan.test.strings.StringBufferAutoTest](../java/org/guegan/test/strings/StringBufferAutoTest.java)
+
 
 Results :
 
